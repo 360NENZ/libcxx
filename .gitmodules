@@ -4,3 +4,6 @@
 [submodule "libcxxabi"]
 	path = libcxxabi
 	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi.git
+[submodule "llvm-libc"]
+	path = llvm-libc
+	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libc.git
